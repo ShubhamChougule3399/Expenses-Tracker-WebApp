@@ -39,7 +39,7 @@ Build the project using your preferred IDE or with Maven:
 `java -jar target/expenses-tracker.jar`.
 
 5. **Access the App:**
-Open your web browser and navigate to `http://localhost:8080`.
+Open your web browser and navigate to `http://devops.omkar.work.gd/`.
 
 ## ScreenShots
 ![Example Image](screenshots/1.png) <br>
